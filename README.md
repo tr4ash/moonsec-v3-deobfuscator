@@ -1,17 +1,15 @@
 # 🎀 moonsec-v3-deobfuscator
 Today, we'll propose to you our MoonSec v3 Deobfuscator Service <br>
-[Preview] -> SOON
+[Preview] -> https://www.youtube.com/watch?v=6vUGYf46-HU
 
-[Discord] -> https://discord.gg/b9GAkfkRbH
+[Discord] -> https://discord.gg/ddCP9kWPsx
 
-# 🏆 Obscura Services
+# 🏆 By TR4SH
 
-Hello, we are a team specialized in learning script obfuscation techniques, particularly in lua. With great reverse engineering skills, we discovered a method to decrypt Luraph
+Hello, i'm specialized in learning script obfuscation techniques, particularly in lua. With great reverse engineering skills, i discovered a method to decrypt Moonsec
 
 # ⭐ What can we do
  
 - FXAP FiveM Decrypter,
 - MoonSec v2 Decrypter,
 - Moonsec v3 Decrypter
-- Luraph Decrypter (all versions)
-- Luraph Constants Dumper (all versions)
